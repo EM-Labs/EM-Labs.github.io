@@ -12,4 +12,5 @@ Sehr empfehlenswert.
 * wiederholen
 
 > Let's Git
+
 <img src="https://upload.wikimedia.org/wikipedia/en/b/b8/OpenHPI-logo.png"/>
