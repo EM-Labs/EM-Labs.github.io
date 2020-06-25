@@ -10,3 +10,5 @@ Sehr empfehlenswert.
 * praktizieren
 * ueben
 * wiederholen
+
+> Let's Git
